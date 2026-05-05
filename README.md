@@ -150,7 +150,7 @@ $exampleVar->dnsAvailableNameServers();
 ```
 
 <?php
-$exampleVar->dnsResgisterDomainZone('domain.tld', 'zone type', array ('ns1', 'ns2', 'nsn'...), '1.2.3.4');
+$exampleVar->dnsRegisterDomainZone('domain.tld', 'zone type', array ('ns1', 'ns2', 'nsn'...), '1.2.3.4');
 
 ?>
 ```
